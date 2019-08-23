@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "jsx": "react"
+  },
+  "include": ["./server/**/*"]
+}
